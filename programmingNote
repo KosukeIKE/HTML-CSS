@@ -1,10 +1,14 @@
 
 ■用語解説
 
- <h1>Hello　World</h1>
+ <h1 class="container">Hello World</h1>
  
-　　　<h1>HelloWorld</h1>………要素
-　　　<h1></h1>………タグ
-      Hello World……テキスト
+      要素　<h1 class="container">Hello World</h1>
+      タグ　<h1></h1>
+   　 テキスト　Hello World
+      属性　class="container"
+      属性名　class
+      属性値　"container"
+      
       
       
