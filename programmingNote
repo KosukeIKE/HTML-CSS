@@ -1,6 +1,7 @@
 
 ■用語解説
 
+◎HTML用語
  <h1 class="container">Hello World</h1>
  
       要素　<h1 class="container">Hello World</h1>
@@ -11,4 +12,30 @@
       属性値　"container"
       
       
-      
+◎Formタグ
+　　　データを送信時、name属性の値とvalue属性の値がオブジェクトになって送信
+
+
+
+
+◎css用語
+       P{
+           color: "red";
+       }
+       
+       セレクタ---p
+       宣言---Color:red
+       プロパティ---color
+       値---red
+
+
+
+■用途別テクニック
+    ▷真ん中に寄せる方法
+           margin: 0 auto;
+             1 widthを必ず設定する
+             2 blck要素にのみ指定できる
+
+           text-align: center;
+             1 block要素内のinline要素に指定する
+             2 inline要素にのみ指定できる
